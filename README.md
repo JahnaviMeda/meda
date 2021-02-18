@@ -10,7 +10,7 @@
  
  **table**
  |name|branch|college|
- |-----|-----|-------
+ |-----|-----|-------|
  |abc|cse|vrsec|
  |xyz|it|vrsec|
  
